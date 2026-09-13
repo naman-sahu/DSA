@@ -7,6 +7,7 @@
 | [0018-4sum](https://github.com/Namanasahu/DSA/tree/master/0018-4sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Namanasahu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Namanasahu/DSA/tree/master/0118-pascals-triangle) |
+| [0835-image-overlap](https://github.com/Namanasahu/DSA/tree/master/0835-image-overlap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Namanasahu/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Namanasahu/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -225,6 +226,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Namanasahu/DSA/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Namanasahu/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
 |  |
