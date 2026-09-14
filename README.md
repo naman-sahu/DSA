@@ -61,6 +61,7 @@
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Namanasahu/DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Namanasahu/DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Namanasahu/DSA/tree/master/1872-stone-game-viii) |
@@ -243,4 +244,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Namanasahu/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Namanasahu/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
