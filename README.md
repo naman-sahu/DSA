@@ -68,6 +68,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Namanasahu/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0836-rectangle-overlap](https://github.com/Namanasahu/DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Namanasahu/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/Namanasahu/DSA/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Namanasahu/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Namanasahu/DSA/tree/master/1872-stone-game-viii) |
@@ -267,4 +268,5 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Namanasahu/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Namanasahu/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
