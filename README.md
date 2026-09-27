@@ -111,6 +111,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Namanasahu/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0940-distinct-subsequences-ii](https://github.com/Namanasahu/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Namanasahu/DSA/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Namanasahu/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1446-consecutive-characters](https://github.com/Namanasahu/DSA/tree/master/1446-consecutive-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Namanasahu/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Namanasahu/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -294,4 +295,9 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Namanasahu/DSA/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Namanasahu/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Namanasahu/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
