@@ -107,6 +107,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Namanasahu/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Namanasahu/DSA/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Namanasahu/DSA/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/Namanasahu/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -299,6 +300,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Namanasahu/DSA/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Namanasahu/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Namanasahu/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Namanasahu/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -306,6 +308,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Namanasahu/DSA/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Namanasahu/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Namanasahu/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Namanasahu/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
