@@ -24,6 +24,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Namanasahu/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Namanasahu/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Namanasahu/DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Namanasahu/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Namanasahu/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Namanasahu/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Namanasahu/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -104,6 +105,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Namanasahu/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Namanasahu/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Namanasahu/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
