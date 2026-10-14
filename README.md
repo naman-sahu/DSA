@@ -101,6 +101,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/Namanasahu/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Namanasahu/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Namanasahu/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Namanasahu/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Namanasahu/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3870-count-commas-in-range](https://github.com/Namanasahu/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Namanasahu/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -162,6 +163,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Namanasahu/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Namanasahu/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Namanasahu/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Namanasahu/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Namanasahu/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Number Theory
 |  |
