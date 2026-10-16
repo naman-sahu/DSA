@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Namanasahu/DSA/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/Namanasahu/DSA/tree/master/0036-valid-sudoku) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Namanasahu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Namanasahu/DSA/tree/master/0118-pascals-triangle) |
 | [0835-image-overlap](https://github.com/Namanasahu/DSA/tree/master/0835-image-overlap) |
@@ -51,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Namanasahu/DSA/tree/master/0036-valid-sudoku) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Namanasahu/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Namanasahu/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/Namanasahu/DSA/tree/master/1096-brace-expansion-ii) |
@@ -312,6 +314,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Namanasahu/DSA/tree/master/0036-valid-sudoku) |
 | [0835-image-overlap](https://github.com/Namanasahu/DSA/tree/master/0835-image-overlap) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Namanasahu/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Namanasahu/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
