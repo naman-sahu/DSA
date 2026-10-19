@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Namanasahu/DSA/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/Namanasahu/DSA/tree/master/0148-sort-list) |
 | [1096-brace-expansion-ii](https://github.com/Namanasahu/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Namanasahu/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Namanasahu/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Namanasahu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Namanasahu/DSA/tree/master/0148-sort-list) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Namanasahu/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Namanasahu/DSA/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/Namanasahu/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Namanasahu/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Namanasahu/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Namanasahu/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -271,6 +274,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Namanasahu/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Namanasahu/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Namanasahu/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Sliding Window
@@ -394,4 +398,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Namanasahu/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Namanasahu/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
