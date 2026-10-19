@@ -1,10 +1,8 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-        // Base case: 0 or 1 node
+    
         if (!head || !head->next) return head;
-
-        // 1. Split the list into two halves using fast & slow pointers
         ListNode* prev = nullptr;
         ListNode* slow = head;
         ListNode* fast = head;
@@ -15,14 +13,11 @@ public:
             fast = fast->next->next;
         }
 
-        // Cut the list
         prev->next = nullptr;
 
-        // 2. Recursively sort each half
         ListNode* left = sortList(head);
         ListNode* right = sortList(slow);
 
-        // 3. Merge the two sorted halves
         return merge(left, right);
     }
 
