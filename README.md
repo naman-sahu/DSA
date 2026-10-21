@@ -160,6 +160,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Namanasahu/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Namanasahu/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Namanasahu/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Namanasahu/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
 | ------- |
