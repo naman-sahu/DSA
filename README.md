@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/Namanasahu/DSA/tree/master/0039-combination-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Namanasahu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Namanasahu/DSA/tree/master/0118-pascals-triangle) |
+| [0219-contains-duplicate-ii](https://github.com/Namanasahu/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0835-image-overlap](https://github.com/Namanasahu/DSA/tree/master/0835-image-overlap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Namanasahu/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Namanasahu/DSA/tree/master/0036-valid-sudoku) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Namanasahu/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/Namanasahu/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Namanasahu/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/Namanasahu/DSA/tree/master/1096-brace-expansion-ii) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Namanasahu/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -297,6 +299,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Namanasahu/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Namanasahu/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Namanasahu/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Namanasahu/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
