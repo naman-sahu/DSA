@@ -145,6 +145,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Namanasahu/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Namanasahu/DSA/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Namanasahu/DSA/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Namanasahu/DSA/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/Namanasahu/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0856-score-of-parentheses](https://github.com/Namanasahu/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Namanasahu/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -173,6 +174,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Namanasahu/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Namanasahu/DSA/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/Namanasahu/DSA/tree/master/0131-palindrome-partitioning) |
 | [1096-brace-expansion-ii](https://github.com/Namanasahu/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Namanasahu/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -241,6 +243,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Namanasahu/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Namanasahu/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Namanasahu/DSA/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Namanasahu/DSA/tree/master/0131-palindrome-partitioning) |
 | [0940-distinct-subsequences-ii](https://github.com/Namanasahu/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Namanasahu/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
