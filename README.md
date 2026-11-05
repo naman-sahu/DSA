@@ -10,6 +10,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Namanasahu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Namanasahu/DSA/tree/master/0118-pascals-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/Namanasahu/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Namanasahu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0835-image-overlap](https://github.com/Namanasahu/DSA/tree/master/0835-image-overlap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Namanasahu/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Namanasahu/DSA/tree/master/1140-stone-game-ii) |
@@ -70,6 +71,7 @@
 | [0036-valid-sudoku](https://github.com/Namanasahu/DSA/tree/master/0036-valid-sudoku) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Namanasahu/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Namanasahu/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Namanasahu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Namanasahu/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/Namanasahu/DSA/tree/master/1096-brace-expansion-ii) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Namanasahu/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -97,6 +99,7 @@
 | ------- |
 | [0018-4sum](https://github.com/Namanasahu/DSA/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Namanasahu/DSA/tree/master/0148-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Namanasahu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1096-brace-expansion-ii](https://github.com/Namanasahu/DSA/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Namanasahu/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Namanasahu/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -225,6 +228,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Namanasahu/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/Namanasahu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Namanasahu/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Namanasahu/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Namanasahu/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -245,6 +249,7 @@
 | [0018-4sum](https://github.com/Namanasahu/DSA/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Namanasahu/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Namanasahu/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/Namanasahu/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Namanasahu/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Namanasahu/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Namanasahu/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
