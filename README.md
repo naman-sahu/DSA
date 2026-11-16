@@ -190,6 +190,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Namanasahu/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Namanasahu/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Namanasahu/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Namanasahu/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Namanasahu/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Namanasahu/DSA/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Namanasahu/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -386,6 +387,7 @@
 | ------- |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Namanasahu/DSA/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Namanasahu/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Namanasahu/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Namanasahu/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
